@@ -33,7 +33,7 @@ Matrices are fundamental objects in mathematics, especially in linear algebra. T
 You can clone this repository using Git:
 
 ```bash
-git clone https://github.com/your-username/matrix-mathematics.git
+git clone https://github.com/TUHIN-DEVALOPER/Matrix-mathematics-.git
 ```
 
 Alternatively, you can download the zip file and extract it to your local machine.
